@@ -35,5 +35,5 @@ There are 10 predictors, all quantitative, and a binary dependent variable, indi
 The goal of this exploratory study was to develop and assess a prediction model which can potentially be used as a biomarker of breast cancer, based on anthropometric data and parameters which can be gathered in routine blood analysis.
 Nowadays in a medical test, the big indicators of success are specificity and sensitivity. Every medical test strives to reach 100% in both criteria.
 
-### Data set :
+### Data-set :
 [Download](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra)
